@@ -26,4 +26,4 @@ Skills
   
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
   
-![adobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white)
+![adobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
