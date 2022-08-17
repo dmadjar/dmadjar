@@ -28,4 +28,4 @@ Skills
   
 ![adobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
 
-![swift](https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=Swift&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
