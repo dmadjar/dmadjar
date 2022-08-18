@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 I am currently studying Computer Science at the University of Michigan specializing in Software Development. 
 
-In my free time I love to work on apps for IOS using Swift and SwiftUI. An app I am currently working on is called Hungry!. It is a hunger mindfullness app that I plan on submitting to the IOS app store. I currently have one app on the App Store called Speed!. Which is a Rubik's cube timer app, where you can track and share your solves!
+In my free time I love to work on apps for IOS using Swift and SwiftUI. An app I am currently working on is called Hungry!. It is a hunger mindfullness app that I plan on submitting to the IOS app store. I currently have one app on the App Store called Speed! which is a Rubik's cube timer app, where you can track and share your solves!
+
+I also love the design aspect of IOS and web development. To plan my projects I often use a combination of ProCreate (IOS), Adobe Illustrator, and Figma!
 
 ## 🛠️ Skills
 
