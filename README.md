@@ -21,10 +21,10 @@ I am currently studying Computer Science at the University of Michigan specializ
 
 In my free time I love to work on apps for IOS using Swift and SwiftUI. An app I am currently working on is called Hungry!. It is a hunger mindfullness app that I plan on submitting to the IOS app store. I currently have one app on the App Store called Speed!. Which is a Rubik's cube timer app, where you can track and share your solves!
 
-### 🛠️ Skills
+## 🛠️ Skills
 
-## Languages 
+### Languages 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Design Tools 
+### Design Tools 
 ![adobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
